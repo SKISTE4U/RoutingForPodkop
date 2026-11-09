@@ -1,4 +1,6 @@
+adeventtracker.spotify.com @ads
 ads.youtube.com @ads
+adstudio-assets.scdn.co @ads
 ai.google.dev
 ai.studio
 aicode.googleapis.com
@@ -16,9 +18,14 @@ antigravity.googleapis.com
 appsgenaiserver-pa.clients.google.com
 appsgenaiserver-pa.clients6.google.com
 appsgenaiserver-pa.googleapis.com
+audio-ak-spotify-com.akamaized.net
+audio4-ak-spotify-com.akamaized.net
 bard.google.com
 bigbeans.solutions
+bloodhound.spotify.com @ads
 browser-intake-datadoghq.com @ads @telemetry
+byspotify.com
+cdn-spotify-experiments.conductrics.com
 chat.com
 chatgpt.com
 chatgpt.livekit.cloud
@@ -66,12 +73,15 @@ ggpht.cn @cn
 ggpht.com
 googlevideo.com
 hammerandchisel.ssl.zendesk.com
+heads-ak-spotify-com.akamaized.net
+heads4-ak-spotify-com.akamaized.net
 host.livekit.cloud
 jules.google
 jules.google.com
 labs.google
 labs.google.com
 labstailwind.pa.googleapis.com
+lifeatspotify.com
 makersuite.google.com
 notebook.google
 notebook.google.com
@@ -97,10 +107,28 @@ openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 proactivebackend-pa.googleapis.com
 production-openaicom-storage.azureedge.net
+pscdn.co
 re:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 robinfrontend-pa.googleapis.com
+scdn.co
 sora.com
+spoti.fi
+spotify-everywhere.com
+spotify.com
+spotify.com.edgesuite.net
+spotify.design
+spotify.link
+spotify.map.fastly.net
+spotify.map.fastlylb.net
+spotifycdn.com
+spotifycdn.net
+spotifycharts.com
+spotifycodes.com
+spotifyforbrands.com
+spotifyforvendors.com
+spotifyjobs.com
 stitch.withgoogle.com
+tospotify.com
 turn.livekit.cloud
 watchanimeattheoffice.com
 webchannel-alkalimakersuite-pa.clients6.google.com
