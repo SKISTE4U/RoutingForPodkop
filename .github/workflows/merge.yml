@@ -1,0 +1,43 @@
+name: Auto Merge LST Files
+
+on:
+  push:
+    # Запуск только при изменениях в папке sources или в самом скрипте
+    paths:
+      - 'sources/**'
+      - 'merge.py'
+  workflow_dispatch: # Позволяет запускать сборку вручную кнопкой на GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # Даем экшену права на запись в репозиторий, чтобы он мог запушить готовый файл
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Run merge script
+      run: python merge.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --local user.email "github-actions[bot]@://github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # Проверяем, изменился ли итоговый файл all_files.lst
+        if git status --porcelain all_files.lst | grep -q 'M'; then
+          git add all_files.lst
+          git commit -m "Auto-update all_files.lst [skip ci]"
+          git push
+        else
+          echo "Изменений в all_files.lst не обнаружено. Пропуск коммита."
+        fi
