@@ -21,6 +21,7 @@ def merge_lst_files():
             with open(file_path, 'r', encoding='utf-8') as f:
                 for line in f:
                     clean_line = line.strip()
+                    clean_line = clean_line.replace("=","")
                     # Пропускаем пустые строки и комментарии
                     if clean_line and not clean_line.startswith('#'):
                         unique_lines.add(clean_line)
