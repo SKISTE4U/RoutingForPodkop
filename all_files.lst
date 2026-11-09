@@ -11,6 +11,7 @@ aisandbox-pa.googleapis.com
 aistudio.google.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
+analytics.tiktok.com @ads
 antigravity-pa.googleapis.com
 antigravity-unleash.goog
 antigravity.google
@@ -26,6 +27,7 @@ bigbeans.solutions
 bloodhound.spotify.com @ads
 browser-intake-datadoghq.com @ads @telemetry
 byspotify.com
+bytedapm.com @!cn
 cafe.github.com @telemetry
 cdn-spotify-experiments.conductrics.com
 cdn-telegram.org
@@ -125,6 +127,8 @@ labs.google.com
 labstailwind.pa.googleapis.com
 lifeatspotify.com
 makersuite.google.com
+muscdn.com @!cn
+musical.ly @!cn
 myoctocat.com
 notebook.google
 notebook.google.com
@@ -153,6 +157,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 opensource.guide
+p16-tiktok-dm-sticker-sign-sg.ibyteimg.com @!cn
+p16-tiktokcdn-com.akamaized.net @!cn
 proactivebackend-pa.googleapis.com
 production-openaicom-storage.azureedge.net
 productionresultssa0.blob.core.windows.net
@@ -180,6 +186,10 @@ quiz.directory
 re:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 repo.new
 robinfrontend-pa.googleapis.com
+roovza-launches.appsflyersdk.com @!cn
+roovza.inapps.appsflyersdk.com @!cn
+roovza.launches.appsflyersdk.com @!cn
+roovza.skadsdk.appsflyersdk.com @!cn
 scdn.co
 sora.com
 spoti.fi
@@ -210,9 +220,36 @@ telegram.space
 telesco.pe
 tg.dev
 thegithubshop.com
+tik-tokapi.com @!cn
+tiktok-minis.com @!cn
+tiktok-row.net @!cn
+tiktok.com @!cn
+tiktokcdn-eu.com @!cn
+tiktokcdn-us.com @!cn
+tiktokcdn-us.com.edgesuite.net @!cn
+tiktokcdn.com @!cn
+tiktokcdn.com.akamaized.net @!cn
+tiktokcdn.com.edgesuite.net @!cn
+tiktokd.net @!cn
+tiktokd.org @!cn
+tiktokeu-cdn.com @!cn
+tiktokglobalshopv.com @!cn
+tiktokminis.us @!cn
+tiktokrow-cdn.com @!cn
+tiktokv.com @!cn
+tiktokv.com.edgekey.net @!cn
+tiktokv.com.edgesuite.net @!cn
+tiktokv.eu @!cn
+tiktokv.us @!cn
+tiktokw.eu @!cn
+tiktokw.us @!cn
 ton.org
 toncenter.com
 tospotify.com
+ttcdn-us.com @!cn
+ttlivecdn.com @!cn
+ttoverseaus.net @!cn
+ttwstatic.com @!cn
 turn.livekit.cloud
 tx.me
 usercontent.dev
