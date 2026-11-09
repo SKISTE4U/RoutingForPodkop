@@ -26,12 +26,15 @@ bloodhound.spotify.com @ads
 browser-intake-datadoghq.com @ads @telemetry
 byspotify.com
 cdn-spotify-experiments.conductrics.com
+cdn-telegram.org
 chat.com
 chatgpt.com
 chatgpt.livekit.cloud
 chatgpt.site
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
+comments.app
+contest.com
 crixet.com
 daily-cloudcode-pa.googleapis.com
 deepmind.com
@@ -61,6 +64,7 @@ discordsays.com
 discordstatus.com
 flow.google
 flow.google.com
+fragment.com
 geller-pa.googleapis.com
 gemini.google
 gemini.google.com
@@ -72,6 +76,7 @@ generativelanguage.googleapis.com
 ggpht.cn @cn
 ggpht.com
 googlevideo.com
+graph.org
 hammerandchisel.ssl.zendesk.com
 heads-ak-spotify-com.akamaized.net
 heads4-ak-spotify-com.akamaized.net
@@ -108,6 +113,7 @@ openaicomproductionae4b.blob.core.windows.net
 proactivebackend-pa.googleapis.com
 production-openaicom-storage.azureedge.net
 pscdn.co
+quiz.directory
 re:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 robinfrontend-pa.googleapis.com
 scdn.co
@@ -128,8 +134,23 @@ spotifyforbrands.com
 spotifyforvendors.com
 spotifyjobs.com
 stitch.withgoogle.com
+t.me
+tdesktop.com
+telega.one
+telegra.ph
+telegram-cdn.org
+telegram.dog
+telegram.me
+telegram.org
+telegram.space
+telesco.pe
+tg.dev
+ton.org
+toncenter.com
 tospotify.com
 turn.livekit.cloud
+tx.me
+usercontent.dev
 watchanimeattheoffice.com
 webchannel-alkalimakersuite-pa.clients6.google.com
 wide-youtube.l.google.com
