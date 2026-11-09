@@ -1,6 +1,21 @@
+=ai.google.dev
+=alkalicore-pa.clients6.google.com
+=alkalimakersuite-pa.clients6.google.com
+=antigravity-pa.googleapis.com
+=antigravity.googleapis.com
+=appsgenaiserver-pa.clients.google.com
+=appsgenaiserver-pa.clients6.google.com
+=appsgenaiserver-pa.googleapis.com
 =browser-intake-datadoghq.com @ads @telemetry
+=cloudaicompanion.googleapis.com
+=cloudcode-pa.googleapis.com
+=daily-cloudcode-pa.googleapis.com
 =discord-attachments-uploads-prd.storage.googleapis.com
+=geminiweb-pa.clients.google.com
+=geminiweb-pa.clients6.google.com
 =hammerandchisel.ssl.zendesk.com
+=notebooklm-pa.googleapis.com
+=notebooklm.googleapis.com
 =o33249.ingest.sentry.io @ads @telemetry
 =o33249.ingest.us.sentry.io @ads @telemetry
 =openai.qualtrics.com @ads
@@ -10,16 +25,27 @@
 =openaicom.imgix.net
 =openaicomproductionae4b.blob.core.windows.net
 =production-openaicom-storage.azureedge.net
+=webchannel-alkalimakersuite-pa.clients6.google.com
 =yt3.googleusercontent.com
 ads.youtube.com @ads
+ai.studio
+aicode.googleapis.com
+aida.googleapis.com
 airhorn.solutions
 airhornbot.com
+aisandbox-pa.googleapis.com
+aistudio.google.com
+antigravity-unleash.goog
+antigravity.google
+bard.google.com
 bigbeans.solutions
 chat.com
 chatgpt.com
 chatgpt.livekit.cloud
 chatgpt.site
 crixet.com
+deepmind.com
+deepmind.google
 dis.gd
 discord-activities.com
 discord.co
@@ -42,18 +68,41 @@ discordmerch.com
 discordpartygames.com
 discordsays.com
 discordstatus.com
+flow.google
+flow.google.com
+geller-pa.googleapis.com
+gemini.google
+gemini.google.com
+gemini.gstatic.com
+generativeai.google
+generativelanguage.googleapis.com
 ggpht.cn @cn
 ggpht.com
 googlevideo.com
 host.livekit.cloud
+jules.google
+jules.google.com
+labs.google
+labs.google.com
+labstailwind.pa.googleapis.com
+makersuite.google.com
+notebook.google
+notebook.google.com
+notebooklm.google
+notebooklm.google.com
 oaistatic.com
 oaistatsig.com
 oaiusercontent.com
+opal.google
+opal.google.com
 openai.com
 openai.com.cdn.cloudflare.net
 openai.org
+proactivebackend-pa.googleapis.com
 re:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+robinfrontend-pa.googleapis.com
 sora.com
+stitch.withgoogle.com
 turn.livekit.cloud
 watchanimeattheoffice.com
 wide-youtube.l.google.com
