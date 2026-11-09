@@ -1,4 +1,6 @@
 =browser-intake-datadoghq.com @ads @telemetry
+=discord-attachments-uploads-prd.storage.googleapis.com
+=hammerandchisel.ssl.zendesk.com
 =o33249.ingest.sentry.io @ads @telemetry
 =o33249.ingest.us.sentry.io @ads @telemetry
 =openai.qualtrics.com @ads
@@ -10,11 +12,36 @@
 =production-openaicom-storage.azureedge.net
 =yt3.googleusercontent.com
 ads.youtube.com @ads
+airhorn.solutions
+airhornbot.com
+bigbeans.solutions
 chat.com
 chatgpt.com
 chatgpt.livekit.cloud
 chatgpt.site
 crixet.com
+dis.gd
+discord-activities.com
+discord.co
+discord.com
+discord.design
+discord.dev
+discord.gg
+discord.gift
+discord.gifts
+discord.media
+discord.new
+discord.store
+discord.tools
+discordactivities.com
+discordapp.com
+discordapp.io
+discordapp.net
+discordcdn.com
+discordmerch.com
+discordpartygames.com
+discordsays.com
+discordstatus.com
 ggpht.cn @cn
 ggpht.com
 googlevideo.com
@@ -28,6 +55,7 @@ openai.org
 re:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 sora.com
 turn.livekit.cloud
+watchanimeattheoffice.com
 wide-youtube.l.google.com
 withyoutube.com
 youtu.be
