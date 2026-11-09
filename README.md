@@ -10,3 +10,6 @@
 
 ---
 Вы так же можете делать форк этого проекта, и добавлять\удалять нужные вам сервисы
+
+# Доп информация
+Код был "навайбкожен" через Gemini, списки доменов беру в основном с [routeruls.site](https://routeruls.site/geosite/), но так же можно самостоятельно достать все нужные домены с сайта или приложения по [этому гайду](https://itdog.info/analiziruem-trafik-i-opredelyaem-domeny-kotorye-ispolzuyut-sajty-i-prilozheniya/)
